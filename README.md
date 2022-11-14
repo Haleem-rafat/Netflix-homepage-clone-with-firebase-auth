@@ -12,11 +12,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Steps
 
-You can view and browse movies in all movies very easily.\
+You can view and browse movies in all movies very easily.
 
 ## Create account
 
-But you put any movie in your favorites do should you create account.\
+But you put any movie in your favorites do should you create account.
 
 ## Have account
 
